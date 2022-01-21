@@ -1,0 +1,20 @@
+.titulo{
+  text-align: center;
+}
+.cuerpo{
+    display: flex;
+    justify-content: center;
+}
+.reset{
+    margin-top: 81px;
+    margin-left: 20px;
+    background-color: yellow;
+    border:2px solid black;
+}
+h1{
+    padding-left: 64px;
+}
+.entra{
+    background-color: aqua;
+    border:2px solid black;
+}
